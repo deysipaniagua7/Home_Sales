@@ -26,7 +26,7 @@ Additionally, we had to answer the following questions using SparkSQL:
 
 ## Repository Breakdown
 
-The main folder, 'Homes_Sales', contains:
+The main folder, 'Home_Sales', contains:
 
 - 'Home_Sales.ipynb' – Jupyter Notebook which contains my challenge code and outputs.
 
